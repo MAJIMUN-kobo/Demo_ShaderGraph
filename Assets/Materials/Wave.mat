@@ -36,9 +36,9 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WaveSpeed: 2
+    - _WaveSpeed: 10
     m_Colors:
-    - _Amplitude: {r: 0, g: 0.25, b: 0, a: 0}
+    - _Amplitude: {r: 0, g: 0.2, b: 0, a: 0}
     - _Direction: {r: 1, g: 0, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6508889443980050912

@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sample
+  m_Name: Gamming
   m_Shader: {fileID: -6465566751694194690, guid: 557fd956c020c26409fd138abc5832d3, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []

@@ -48,10 +48,11 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Speed: 0.143
+    - _Speed: 0.5
     - _Undlate: 10
-    - _Undulate: 15
-    m_Colors: []
+    - _Undulate: 20
+    m_Colors:
+    - _Direction: {r: 0, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5296569993432338995
 MonoBehaviour:
