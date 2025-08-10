@@ -1093,10 +1093,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -622.0000610351563,
-            "y": 103.00000762939453,
-            "width": 131.00003051757813,
-            "height": 33.99999237060547
+            "x": -602.0,
+            "y": 79.0,
+            "width": 131.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -1222,9 +1222,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -438.0000305175781,
-            "y": 120.0,
-            "width": 207.99996948242188,
+            "x": -442.0,
+            "y": 95.0,
+            "width": 207.99998474121095,
             "height": 302.0
         }
     },
@@ -1825,10 +1825,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1818.0,
-            "y": 0.000005825451808050275,
+            "x": -1829.9998779296875,
+            "y": -0.0000023245811462402345,
             "width": 120.0,
-            "height": 148.9999542236328
+            "height": 148.99998474121095
         }
     },
     "m_Slots": [
@@ -1955,9 +1955,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -557.0,
-            "y": 497.0,
-            "width": 56.000030517578128,
+            "x": -508.9999694824219,
+            "y": 485.0,
+            "width": 56.0,
             "height": 24.0
         }
     },
@@ -2017,9 +2017,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -167.99998474121095,
-            "y": 397.9999694824219,
-            "width": 56.000038146972659,
+            "x": -145.99996948242188,
+            "y": 407.0,
+            "width": 55.999969482421878,
             "height": 24.0
         }
     },
@@ -2130,10 +2130,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2132.0,
-            "y": 0.000005825451808050275,
+            "x": -2127.999755859375,
+            "y": 0.000002205371856689453,
             "width": 208.0,
-            "height": 315.00006103515627
+            "height": 314.9999694824219
         }
     },
     "m_Slots": [
@@ -2362,7 +2362,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "ee19216662c44d3fba4af3ee01c0216d",
     "m_Title": "スキャン方向軸の抽出",
-    "m_Content": "Write something here",
+    "m_Content": "",
     "m_TextSize": 0,
     "m_Theme": 1,
     "m_Position": {
