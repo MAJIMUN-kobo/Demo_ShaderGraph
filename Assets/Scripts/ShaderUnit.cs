@@ -1,12 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityObservable;
 using ShaderDemo;
 
 public class ShaderUnit: BaseSubject
 {
-    [SerializeField]
+    [System.Serializable]
     public class Parameter
     {
         public ShaderGraphMaterial component;

@@ -34,7 +34,7 @@ namespace ShaderDemo
                 ShaderUnits[i] = new ShaderUnit(this, $"Prefabs/ShaderMaterials/shader_{ i.ToString("00") }" );
             }
 
-            AllLight = GameObject.FindObjectsOfType<Light>();
+            AllLight = GameObject.FindObjectsByType<Light>(sortMode: FindObjectsSortMode.None );
             for( int i = 0; i < AllLight.Length; i++)
             {
                 AllLight[i].intensity = _lightSlider.value;
